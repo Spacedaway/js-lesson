@@ -49,3 +49,5 @@ const smallerFunction = (a) => a*2;
 const largerFunction = (a, callBack) => callBack(a)/2;
 
 console.log(16, smallerFunction);
+
+
